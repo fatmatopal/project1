@@ -1,0 +1,40 @@
+ 1  git init
+    2  git init
+    3  git status
+    4  git add index.html
+    5  git init
+    6  git init
+    7  git status
+    8  git add index.html
+    9  git status
+   10  git rm --cached index.html
+   11  git status
+   12  git add index.html
+   13  git commit
+   14  git config --global user.email "fatmatopal18.08@gmail.com"
+   15  git config --global user.name "Fatma Topal"
+   16  git commit
+   17  git commit -m 'First Commit'
+   18  git status
+   19  git status
+   20  git status
+   21  git log
+   22  git status
+   23  git status
+   24  git diff
+   25  git commit -m 'index dosyası degisti'
+   26  git add css/style.css
+   27  git status
+   28  git commit -m "style dosyası eklendi"
+   29  git status
+   30  git add index.html
+   31  git commit -m "index dosyası değişti"
+   32  git status
+   33  git diff index.html
+   34  git diff
+   35  git commit -m "index ve style dosyası değişti"
+   36  git add index.html
+   37  git add css/style.css
+   38  git commit -m "index ve style dosyası değişti"
+   39  git checkout
+   40  history
